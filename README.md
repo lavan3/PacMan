@@ -1,5 +1,5 @@
 # PacMan
-This Pacman game is implemented in Java, using the IDE **Eclipse (4.22.0)**. This program has been ran and tested using **MacOS Sonoma Version 14.2 (23C64)**. This is a console based game which involves the use of keyboard event. The objective of the game is to move Pacman around while collecting the pellets and avoiding the ghosts. This is a quick mini game which lasts 1 minute. After the minute is over and Pacman is still alive, the user wins displaying a winner message. If Pacman collides with the ghost, Pacman dies. The game is boundary checked,
+This Pacman game is implemented in Java, using the IDE **Eclipse 2021-12 (4.22.0)**. This program has been ran and tested using **MacOS Sonoma Version 14.2 (23C64)**. This is a console based game which involves the use of keyboard event. The objective of the game is to move Pacman around while collecting the pellets and avoiding the ghosts. This is a quick mini game which lasts 1 minute. After the minute is over and Pacman is still alive, the user wins displaying a winner message. If Pacman collides with the ghost, Pacman dies. The game is boundary checked,
 so Pacman and the ghosts can only stay within the frame and in the maze.
 
 # Mechanics 
